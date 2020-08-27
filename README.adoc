@@ -14,6 +14,8 @@ options, and download a bundled up project as a zip file.
 
 == What You Will build
 
+HI
+
 You will build a simple web application with Spring Boot and add some useful services to
 it.
 
